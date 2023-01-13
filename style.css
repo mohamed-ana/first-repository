@@ -1,7 +1,10 @@
-h1 {
-    color:brown;
-}
 body {
-    background-color:blue;
+    background-color:#ddd;
     text-align: center;
+}
+h1 {
+color:brown;
+}
+p {
+    color:blue;
 }
